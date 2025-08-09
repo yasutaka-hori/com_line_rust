@@ -1,0 +1,13 @@
+[package]
+name = "echor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = "4.x"
+
+[dev-dependencies]
+anyhow = "1.x"
+assert_cmd = "2.x"
+predicates = "3.x"
+pretty_assertions = "1.x"
